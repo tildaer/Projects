@@ -2,4 +2,5 @@ The analysis is done on a public dataset from a fictional Telecommunications com
 
 - The jupyter notebook includes all my code. 
 - The PDF includes a summary where my purose is to summarize my findings in a way that is short and easy to understand for anyone.
+- 
 
